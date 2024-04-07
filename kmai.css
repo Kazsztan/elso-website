@@ -4,10 +4,10 @@ body {
 }
 .mate {
     position: absolute;
-    left: 200px;
-    top: 500px;
+    left: 210px;
+    top: 520px;
     width: 200px;
-    height: 300px;
+    height: 280px;
 }
 .zsombi {
     width: 200px;
@@ -17,13 +17,25 @@ body {
 }
 .m {
     position: absolute;
-    left:200px;
-    bottom: 150px;
+    left:210px;
+    top: 480px;
 }
 .zs {
     position: absolute;
-    bottom: 150px;
+    top: 480px;
+}
+.a {
+    position: absolute;
+    top:480px;
+    left:410px;
 }
 h1 {
     text-align: center;
+}
+.alex {
+    position: absolute;
+    top: 520px;
+    left: 410px;
+    width: 200px;
+    height: 250px;
 }
