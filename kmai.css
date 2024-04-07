@@ -1,0 +1,29 @@
+body {
+    background: #141E30;
+    color: white;
+}
+.mate {
+    position: absolute;
+    left: 200px;
+    top: 500px;
+    width: 400px%;
+    height: 300px;
+}
+.zsombi {
+    width: 400px%;
+    height: 280px;
+    position: absolute;
+    top: 520px;    
+}
+.m {
+    position: absolute;
+    left:200px;
+    bottom: 150px;
+}
+.zs {
+    position: absolute;
+    bottom: 150px;
+}
+h1 {
+    text-align: center;
+}
